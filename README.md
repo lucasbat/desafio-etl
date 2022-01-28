@@ -6,13 +6,13 @@ API desenvolvida para seguir os seguintes requisitos:
 <li>(Load) Disponibiliza os dados ordenados.</li>
 </ol>
 
-<h2>Tecnologias:</h2>
+<h2>Tecnologias</h2>
 <ol>
 <li>NodeJS</li>
 <li>Express</li>
 </ol>
 
-<h2>Como rodar o projeto:</h2>
+<h2>Como rodar o projeto</h2>
 <ol>
 <li>$ git clone https://github.com/lucasbat/desafio-etl</li>
 <li>$ cd desafio-etl</li>
