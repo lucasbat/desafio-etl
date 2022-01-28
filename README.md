@@ -1,4 +1,4 @@
-<h2>Sobre<h2>
+<h2>Sobre</h2>
 API desenvolvida para seguir os seguintes requisitos:
 <ol>
 <li>(Extract) Extrai os dados de todas as páginas uma API externa;</li>
