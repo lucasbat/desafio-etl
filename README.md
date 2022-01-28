@@ -1,16 +1,21 @@
-Sobre
+<h2>Sobre<h2>
 API desenvolvida para seguir os seguintes requisitos:
+<ol>
+<li>(Extract) Extrai os dados de todas as páginas uma API externa;</li>
+<li>(Transform) Ordena os dados;</li>
+<li>(Load) Disponibiliza os dados ordenados.</li>
+</ol>
 
-(Extract) Extrai os dados de todas as páginas uma API externa;
-(Transform) Ordena os dados;
-(Load) Disponibiliza os dados ordenados. 
+<h2>Tecnologias:</h2>
+<ol>
+<li>NodeJS</li>
+<li>Express</li>
+</ol>
 
-Tecnologias:
-NodeJS
-Express
-
-Como rodar o projeto:
-$ git clone https://github.com/lucasbat/desafio-etl
-$ cd desafio-etl
-$ yarn ou npm i
-$ yarn start ou npm start
+<h2>Como rodar o projeto:</h2>
+<ol>
+<li>$ git clone https://github.com/lucasbat/desafio-etl</li>
+<li>$ cd desafio-etl</li>
+<li>$ yarn ou npm i</li>
+<li>$ yarn start ou npm start</li>
+</ol>
